@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "name":"trần văn hiệp",
+        "sdt":"0342925252",
+        "permission":1
+    },
+    {
+        "id":2,
+        "name":"trần văn nam",
+        "sdt":"1234555",
+        "permission":2
+    },
+    {
+        "id":3,
+        "name":"trần văn hiếu",
+        "sdt":"55555555",
+        "permission":2
+    },
+    {
+        "id":4,
+        "name":"trần văn hùng",
+        "sdt":"77777777777",
+        "permission":1
+    },
+    {
+        "id":5,
+        "name":"trần văn sinh",
+        "sdt":"8888887872",
+        "permission":2
+    }
+]
